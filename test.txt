@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 fuga
+=======
+hoge
+>>>>>>> 9ccde0c5a608efcf60c3876776258f0859fdcf09
